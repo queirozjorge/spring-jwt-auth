@@ -4,6 +4,7 @@ Este é um repositório que tem por objetivo apenas demonstrar uma implementaç�
 Para rodar o projeto é necessário:
   - Realizar o clone do repositório,
   - Abrir o projeto na sua ide e configurar a jdk 20
+  - Baixar as dependências através do comando Maven Install
   - E no postman, importar a collection e enviroments presentes na pasta src/main/java/br/com/jorge/springjwtauth/docs que está no projeto
 
 Através dos endpoints /auth/register e /auth/signin é possível criar um novo usuário e se autenticar.
