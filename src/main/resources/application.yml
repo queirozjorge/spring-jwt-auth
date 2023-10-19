@@ -1,0 +1,5 @@
+api:
+  security:
+    token:
+      secret: ${SECRET_KEY:53ccr37}
+    expires: ${EXPIRES_LENGTH:3600000}
